@@ -29,6 +29,7 @@
 <!--START_SECTION:cp-->
 |Product|Offer Benefits|Type|
 |:------|:-------------|:---|
+|[PM Internship Scheme Registration]([https://education.github.com/pack](https://www.sarkaridna.com/pm-internship-scheme-registration/))|PM Internship Scheme Registration: हर युवाओं को मिलेंगे 5,000/- रुपये|
 |[Github student developer pack](https://education.github.com/pack)|\$200K worth free software for all your development needs|Development, Art, Design etc.|
 |[Bio Link](https://bio.link/)|Link in bio - the clickable URL that you can add to your profile section|Social Media Links Manager|
 |[AnyDesk Student](https://anydesk.com/en/education/free-for-students)|All Anydesk Product Licenses while you are student|Design, Art|
